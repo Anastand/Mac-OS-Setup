@@ -17,7 +17,7 @@
 15. codex
 16. github desktop
 17. autoraise
-18. edge 
-
+18. edge
+19. raycast with ocr 
 install node , use pnpm , affinity 
 
