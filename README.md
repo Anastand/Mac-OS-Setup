@@ -1,23 +1,23 @@
 # Mac-OS-Setup
-personal list of applications
-  #
+
 1. hidden bar 
 2. Arc
-3. safari accounts
-4. vs code
-5. horo
-6. zed with supermaven
-7. iterm2
-8. whatsapp
-9. telegram
-10. Discord --> legcord
-11. warp
-12. postman
-13. claude , chatgpt
-14. moss
-15. alt-tab
-16. iina vidoe player
-17. freedownload mangaer
-18. dark reader , adguard
-19. 
+3. zed & cursor
+4. warp preview
+5. whatsapp
+6. telegram
+7. legcord
+8. hoppscoth
+9. chatgpt , opencode , hex 
+10. tab tab
+11. helium
+12. freedownload mangaer
+13. rectangle
+14. tick tick 
+15. codex
+16. github desktop
+17. autoraise
+18. edge 
+
+install node , use pnpm , affinity 
 
