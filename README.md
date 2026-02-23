@@ -18,6 +18,7 @@
 16. github desktop
 17. autoraise
 18. edge
-19. raycast with ocr 
+19. raycast with ocr
+20. pearcleaner
 install node , use pnpm , affinity 
 
